@@ -1,0 +1,5 @@
+print('\033[31mOlá, mundo!')
+print('\033[1;31mOlá, mundo!')
+print('\033[1;31;42mOlá, mundo!')
+print('\033[1;31;42mOlá, mundo!\033[m')
+print('\033[4;30;45mOlá, mundo!\033[m')
